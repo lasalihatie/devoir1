@@ -1,4 +1,4 @@
-name: isiGdiop
+name: Deploy to S3
 on:
   push:
     branches:
